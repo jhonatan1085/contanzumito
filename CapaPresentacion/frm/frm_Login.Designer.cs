@@ -132,7 +132,7 @@ namespace CapaPresentacion.frm
             this.btnAcceder.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(18)))), ((int)(((byte)(63)))));
             this.btnAcceder.BackColor = System.Drawing.Color.White;
             this.btnAcceder.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnAcceder.BackgroundImage")));
-            this.btnAcceder.ButtonText = "ACCEDER";
+            this.btnAcceder.ButtonText = "INGRESAR";
             this.btnAcceder.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAcceder.Font = new System.Drawing.Font("Candara", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAcceder.ForeColor = System.Drawing.Color.White;
@@ -141,7 +141,7 @@ namespace CapaPresentacion.frm
             this.btnAcceder.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(18)))), ((int)(((byte)(63)))));
             this.btnAcceder.IdleForecolor = System.Drawing.Color.White;
             this.btnAcceder.IdleLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(18)))), ((int)(((byte)(63)))));
-            this.btnAcceder.Location = new System.Drawing.Point(247, 173);
+            this.btnAcceder.Location = new System.Drawing.Point(192, 169);
             this.btnAcceder.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAcceder.Name = "btnAcceder";
             this.btnAcceder.Size = new System.Drawing.Size(184, 47);
